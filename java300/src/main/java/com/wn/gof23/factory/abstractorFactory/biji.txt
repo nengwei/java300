@@ -1,0 +1,10 @@
+用来生产不同产品族的全部产品。（对于增加新的产品，无能为力；支持增加产品族）
+
+
+场景：
+	Calender的getInstance方法
+	Connection对象的获取
+	Hibernate中SessionFactory创建Session
+	spring中ioc容器创建管理bean对象
+	xml解析时的DocumentBuilderFactory创建解析器对象
+	反射中Class对象的newInstance()
